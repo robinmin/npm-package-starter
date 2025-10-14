@@ -98,6 +98,9 @@ Once all of these are done, you can push to the remote repository and trigger a 
 git push -u origin
 ```
 
+Under Pull Requests, open the new "Version Packages" PR and click Rebase and Merge.
+
+
 ## Verification
 Use the following commands to test the setup of the project is ready for use or not. Before you start, make sure you have Filled `description` in `package.json`.
 

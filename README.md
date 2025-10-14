@@ -121,3 +121,4 @@ pnpm docs
 
 ## Reference
 - [npm-package-starter](https://github.com/IlyaSemenov/npm-package-starter)
+- [Create your first NPM Package — 2025 Edition](https://medium.com/@ukpai/create-your-first-npm-package-2025-edition-217b44a87671)
